@@ -1,0 +1,90 @@
+body{
+  
+
+
+}
+
+.headerarea{
+    background: white;
+    top: 0px;
+
+}
+
+
+
+.nametag{
+    background: gray;
+    padding: 0px 0px 0px 0px;
+    margin: -10px 100px -20px 100px;
+    top: 0px;
+    position: fixed;
+}
+
+.navbar{
+    top:10px;
+}
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-bottom: 1px solid grey;
+    background-color: white;
+    top: 10px;
+    
+  }
+  
+  li {
+    float: right;
+    border-right: 1px solid #bbb;
+  }
+  
+  li:first-child {
+    border-right: none;
+  }
+
+  
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+.active {
+    background-color: #4CAF50;
+  }
+  
+.AboutMeBox{
+    margin: 40px 25px 10px 25px;
+    padding: 0px 0px 50px 0px;
+    background: white;
+
+   
+}
+
+
+.Bodyarea{
+    background: 
+}
+
+
+.paragraph{
+    margin: 0;
+    padding: 0;
+    
+
+
+}
